@@ -7,3 +7,5 @@ Edit the paths in program.cs, csproj, and neovim.lua
 The documentation is very clear, along with the EULA; This is definitely not permitted and "won't work" for use outside Visual Studio / VSCODE.
 
 By using this outside Microsoft products, you the user are in violation of the Microsoft EULA, I will not be held responsible for misuse.
+
+The neovim plugin is far from ready, still figuring things out, and the LSP is not entirely functional, still working on some issues.
